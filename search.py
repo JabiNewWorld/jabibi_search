@@ -5,12 +5,10 @@ CREATOR = "AKA $JABIBI"
 from os import system
 from pdb import main
 from re import search
-from winreg import QueryInfoKey
 import discord
 import json
 import requests
 import time
-from discord import webhook as req
 from pywhatkit import search
 from colorama import Fore, Back, Style
 import discord, ctypes, json, os, webbrowser, requests, datetime, urllib, time, string, random, asyncio, aiohttp
@@ -24,6 +22,7 @@ ctypes.windll.kernel32.SetConsoleTitleW(f"JABIBI SEARCH PROGRAMM | VERSION 1.0.0
 
 
 print("""""
+      {Fore.RED}     {Fore.RED}
       +-+-+-+-+-+-+ +-+-+-+-+-+-+
 >>>>> |J|A|B|I|B|I| |S|E|A|R|C|H| <<<<<<<<
       +-+-+-+-+-+-+ +-+-+-+-+-+-+
