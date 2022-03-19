@@ -7,4 +7,5 @@ FUNCIONES
 1-HACER BUSQUEDAS EN GOOGLE 
 DE MANERA RAPIDA Y EFICAZ 
 ``` MIS REDES SOCIALES```
+
 !!! [MI INSTAGRAN](https://www.instagram.com/jabibipr/)
