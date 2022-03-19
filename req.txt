@@ -1,0 +1,7 @@
+node
+discord
+datetime
+python3
+python
+colorama
+requests
