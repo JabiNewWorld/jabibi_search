@@ -16,7 +16,7 @@ from colorama import Fore, Back, Style
 import discord, ctypes, json, os, webbrowser, requests, datetime, urllib, time, string, random, asyncio, aiohttp
 
 
-os.system("cls")
+os.system("clear")
 
    
 os.system("mode con: cols=80 lines=25")
@@ -35,7 +35,7 @@ time.sleep(1)
 print("MI GITHUB https://github.com/JabibiCODEPR")
 time.sleep(5)
 print("MI DISCORD ! Daddy Jabibi#9498")
-os.system("cls")
+os.system("clear")
 
 time.sleep(5)
 
